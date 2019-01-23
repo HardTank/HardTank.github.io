@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: hardstanks@gmail.com
 description: "做一个真正的software engineer."
 keyword: "blog,格致，云汐，java"
-url: "http://hardtank.github.io"          # your host, for absolute URL
+url: "http://hardtank.github.io"            # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hardtank/hardtank.github.io.git" # you code repository
 
